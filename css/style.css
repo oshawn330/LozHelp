@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+}
+.titles {
+    text-align: center;
+}
+
+.jumbotron{
+   padding-top: 15px;
+   
+   padding-bottom: 2px;
+ margin-bottom: 5px;
+   border: 1px solid lightgray;
+}
+.jumbotron:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.19);
+}
+.lead{
+    text-align: center;
+    
+}
+
+.req{
+    text-align: right;
+}
+p.lead.info {
+    
+    width: 100%;
+    overflow: auto;
+}
