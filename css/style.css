@@ -11,9 +11,11 @@ body{
    padding-bottom: 2px;
  margin-bottom: 5px;
    border: 1px solid lightgray;
+   
 }
 .jumbotron:hover{
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.19);
+    transform: scale(1.002);
 }
 .lead{
     text-align: center;
