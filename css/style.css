@@ -1,5 +1,7 @@
 body{
     margin: 0;
+     background-color: #2c2f33; /* Dark background color */
+  color: #ffffff; /* Light text color */
 }
 .titles {
     text-align: center;
